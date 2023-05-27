@@ -30,8 +30,8 @@
                         <constraints>
                             <constraint firstAttribute="bottom" secondItem="fEb-pf-Q9X" secondAttribute="bottom" id="Vha-f0-qcI"/>
                             <constraint firstItem="fEb-pf-Q9X" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="aJw-dB-3fw"/>
-                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="elN-Mw-yoR"/>
-                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="g9E-6p-zNa"/>
+                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="elN-Mw-yoR"/>
+                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="g9E-6p-zNa"/>
                         </constraints>
                     </view>
                 </viewController>
